@@ -1,0 +1,5 @@
+C:/Users/ASUS/Assignment2_UDXR_Prajna/.utmp/RelWithDebInfo/6fs6o3c3/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Assignment2_UDXR_Prajna/.utmp/RelWithDebInfo/6fs6o3c3/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/ASUS/Assignment2_UDXR_Prajna/.utmp/RelWithDebInfo/6fs6o3c3/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/ASUS/Assignment2_UDXR_Prajna/.utmp/RelWithDebInfo/6fs6o3c3/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Assignment2_UDXR_Prajna/.utmp/RelWithDebInfo/6fs6o3c3/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lotus Temple
+* source:	https://sketchfab.com/3d-models/lotus-temple-0a81d18db3c947fbbdc8d60edd1ef323
+* author:	jvillar (https://sketchfab.com/jvillar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lotus Temple" (https://sketchfab.com/3d-models/lotus-temple-0a81d18db3c947fbbdc8d60edd1ef323) by jvillar (https://sketchfab.com/jvillar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
